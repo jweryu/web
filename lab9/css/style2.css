@@ -1,0 +1,70 @@
+.leftmenu a{
+	font-size: 14px;
+}
+.leftmenu a:hover{
+	text-decoration: none;
+	color:#b9f605;
+}
+ul li span{
+	text-align: right;
+}
+body{
+	background:url(http://img.ph.126.net/7bJB8IHKjA3J6wXC45TniA==/5629516026887585596.jpg);
+}
+#dingbu{
+	
+	background:url(http://images.missyuan.com/attachments/day_120815/20120815_e44269785f21a9bd72cec7BRH1Qs4cXC.gif);
+	height:205px;
+	width:100%;
+	background-position: center top;
+	clear: left;
+}
+.logo{
+	clear:left;
+	background-position: center;
+	height:164px;
+	width:1000px;
+}
+*{
+	margin:0 auto;
+	font-size:12px;
+	font-family:宋体;
+	padding:0;
+	color:white;
+	text-align:center;
+
+}
+.daohang{
+	width:100%;
+	height:40px;
+	background:url(http://pic.58pic.com/58pic/17/17/28/18458PIC3Hj_1024.jpg);
+	clear: left;
+}
+.chaolianjie{
+	width:700px;
+	font-weight:bold;
+	color:#fff;
+	height:40px;
+	padding-top:12px;
+	margin-left:210px;
+	float:left;
+}
+.shouye{
+	color:#f9f603;
+}
+.chaolianjie a{
+	color:#fff;
+}
+.chaolianjie a:hover{
+	color:#f9f603;
+	text-decoration:none;
+}
+.sosuokuang{
+	width:200px;
+	height:30px;
+	padding-top:12px;
+	float: left;
+}
+.like{
+	font-size:14px;
+}
